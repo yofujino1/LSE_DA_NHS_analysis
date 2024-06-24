@@ -1,5 +1,5 @@
 # LSE DATA ANALYTICS - INDIVIDUAL ASSIGNMENT 2
-
+## Passed with Distinction
 Collaborating with the NHS, I used Python to analyze data on service utilization, staff capacity, and public opinion via Twitter. I refined business questions, conducted exploratory data analysis, and presented insights 
 through visualizations and a detailed report to support NHS decision-making.
 ## CONTEXT
@@ -11,3 +11,10 @@ By applying these technical skills, I delivered actionable insights to support N
 PHYTON, R, TABLEAU
 ## SKILL & RESOURCES
 Pandas & Numpy, Jupyter Notebook, Seaborn & Matplotlib, wordCloud
+## MATERIALS
+1) jupyter notebook
+2) PPT
+3) Technical Report
+4) Metadata
+
+   
